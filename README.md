@@ -1,0 +1,2 @@
+# PEC3_Manovich_Reloaded_Alejandro_Bonal
+Hibridacion Manovich Alejandro Bonal
