@@ -73,7 +73,7 @@ La hibridación, como comenta Manovich, abre las puertas a crear nuevos medios, 
 - McMillan, R. (2012). Lord of the Files: How GitHub Tamed Free Software (And More) https://github.com/WiredEnterprise/Lord-of-the-Files
 - UOC. (2024). Cultura Digital: Materiales y recursos de aprendizaje. https://cultura-digital.aula.uoc.edu/es/
 - Nintendo. (s.f.). Mario Kart Live: Home Circuit | Nintendo Switch. https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Mario-Kart-Live-Home-Circuit-1832413.html
-- Amazon.es. (s.f.). Mario Kart Live: Home Circuit - Edición Mario [Ficha de producto]. https://www.amazon.es/Mario-Kart-Live-Home-Circuit/dp/B08HF7PBLJ
-- Menos trece (2025). UN PHASMO AL AÑO NO HACE DAÑO [Vídeo de YouTube]. https://www.youtube.com/watch?v=apnFJo7EsQY
-- Nintendúo (2020). Unboxing y Gameplay de MARIO KART LIVE Home Circuit [Vídeo de YouTube]. https://www.youtube.com/watch?v=apnFJo7EsQY
-- Wikipedia (2026). Phasmophobia (video game). https://en.wikipedia.org/wiki/Phasmophobia_%28video_game%29
+- Amazon.es. (s.f.). Mario Kart Live: Home Circuit - Edición Mario. https://www.amazon.es/Mario-Kart-Live-Home-Circuit/dp/B08HF7PBLJ
+- Menos trece (2025). UN PHASMO AL AÑO NO HACE DAÑO. https://www.youtube.com/watch?v=apnFJo7EsQY
+- Nintendúo (2020). Unboxing y Gameplay de MARIO KART LIVE Home Circuit. https://www.youtube.com/watch?v=apnFJo7EsQY
+- Wikipedia (2026). Phasmophobia. https://en.wikipedia.org/wiki/Phasmophobia_%28video_game%29
