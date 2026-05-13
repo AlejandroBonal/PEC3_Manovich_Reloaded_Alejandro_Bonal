@@ -1,9 +1,14 @@
 # PEC 3 Manovich Reloaded
 Autor: Alejandro Bonal
 
+Fecha: 11 de Mayo 2026
+
+Profesor: Miguel Gea Megías 
+
 Asignatura: Cultura Digital
 
-Fecha: 11 de Mayo 2026
+Semestre 2º de 2025/2026
+
 
 # Introducción
 En su obra El software toma el mando, Lev Manovich argumenta que hemos pasado de una era de "multimedia" a una hibridación". Mientras que la multimedia consistía en insertar diferentes tipos de medios en un mismo espacio, en la hibridación todas las técnicas se superponen y fusionan para crear una nueva estructura, representando asi un estadío evolutivo superior del metamedio.
