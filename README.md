@@ -1,6 +1,8 @@
 # PEC 3 Manovich Reloaded
 Autor: Alejandro Bonal
-Asignatura: Cultura Digital - UOC
+
+Asignatura: Cultura Digital
+
 Fecha: 11 de Mayo 2026
 
 # Introducción
@@ -62,9 +64,9 @@ La hibridación, como comenta Manovich, abre las puertas a crear nuevos medios, 
 
 # Bibliografía
 - Manovich, L. (2013). El software toma el mando. Barcelona: Editorial UOC.
-- Nintendo. (2020). Mario Kart Live: Home Circuit [Software de videojuego].
-- Kinetic Games. (2020). Phasmophobia [Software de videojuego].
-- Adell, Ferran. (2024). Remediación, multimedia e hibridación. Material de la UOC.
+- Gea, M. (2026). Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto. https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing
+- McMillan, R. (2012). Lord of the Files: How GitHub Tamed Free Software (And More) https://github.com/WiredEnterprise/Lord-of-the-Files
+- UOC. (2024). Cultura Digital: Materiales y recursos de aprendizaje. https://cultura-digital.aula.uoc.edu/es/
 - Nintendo. (s.f.). Mario Kart Live: Home Circuit | Nintendo Switch. https://www.nintendo.com/es-es/Juegos/Programas-descargables-Nintendo-Switch/Mario-Kart-Live-Home-Circuit-1832413.html
 - Amazon.es. (s.f.). Mario Kart Live: Home Circuit - Edición Mario [Ficha de producto]. https://www.amazon.es/Mario-Kart-Live-Home-Circuit/dp/B08HF7PBLJ
 - Menos trece (2025). UN PHASMO AL AÑO NO HACE DAÑO [Vídeo de YouTube]. https://www.youtube.com/watch?v=apnFJo7EsQY
